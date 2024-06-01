@@ -15,5 +15,7 @@ Encryption in the Tor network occurs in layers, utilizing both asymmetric and sy
 ## Threats and Research Focus
 Onion routing's robust anonymization poses challenges for authorities tracking individuals involved in illegal activities. Our research aims to explore vulnerabilities in Onion Routing Networks, specifically Tor, focusing on quantitative data collection. We will investigate potential solutions for deanonymization, offering a method for authorities to apprehend wrongdoers while preserving the privacy of law-abiding users. Our study also addresses potential vulnerabilities in the network, contributing to the ongoing dialogue on striking a balance between anonymity and accountability.
 
-![Figure 1: Visualization of a sample Tor circuit between two network users](https://davidleudolph.ch/dateien/projekte/how-tor-works-3-large-en.png)
+[Figure 1: Visualization of a sample Tor circuit between two network users]
+![onionRouting](https://github.com/PreetAsari15/Deanonymizing-Onion-Router/assets/99091837/0b666b74-50f5-4943-ba8e-a632ce11c0cb)
+
 
